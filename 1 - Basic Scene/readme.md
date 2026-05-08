@@ -1,0 +1,1 @@
+In this class, I created a basic scene and got to know very much about camera, mesh, material, and geometry of the object and created a scene with a simple cube. 

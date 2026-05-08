@@ -1,0 +1,1 @@
+In this lesson, I got to know how I can install npm and then use it to create a static folder for my projects instead of the basic approach of creating the simple two files index.html and script.js.
